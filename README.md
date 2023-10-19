@@ -6,6 +6,7 @@ This is a repository for the snakemake version of the [bash RNASeq pipeline](htt
 - *initiator.sh*: sets up the directory and launches the *snakemake_submitted.sh*
 - *Snakefile*: the pipeline
 - *RNASeq.yaml*: environmental variables for the pipeline
+- alp note
 
 # Citation
 If you use this pipeline, please cite the following:
